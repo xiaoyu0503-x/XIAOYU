@@ -1,0 +1,5 @@
+{
+  "name": "Rhino CRM Dashboard",
+  "description": "A high-fidelity replica of the Rhino Backend Management System CRM dashboard, featuring complex data tables, performance metrics, and interactive layouts.",
+  "requestFramePermissions": []
+}
